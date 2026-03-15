@@ -1,3 +1,5 @@
+#this is my first website data i deployed but some problem the web site in proggress
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
