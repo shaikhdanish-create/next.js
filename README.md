@@ -10,5 +10,4 @@ vvv
 vv
 v
 vv
-v
 vvvvvv
