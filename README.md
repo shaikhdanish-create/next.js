@@ -9,7 +9,7 @@ vvvvvv               v
 vvvv
 vvv
 vv
-vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+vvvvvvvvvvvvvvvvvvvvvvv
 vv
 vvv
 vvvv
