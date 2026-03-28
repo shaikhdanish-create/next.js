@@ -9,8 +9,8 @@ vvvvvv               v
 vvvv
 vvv
 vv 
-v
+v                    v
 vv
 vvv
 vvvv
-vvvvvv                v
+vvvvvv               v
