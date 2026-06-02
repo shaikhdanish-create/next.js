@@ -10,7 +10,7 @@ git log --oneline
 vvvvvv               v                                                                                                                          
 vvvv    
 vvv                                                                                 
-vv                                                                              
+vv                                                                                
 v             
 vv                                
 vvv                                    
