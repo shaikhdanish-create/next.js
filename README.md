@@ -8,7 +8,7 @@ git log --oneline
                   ksdvns  
                                  
 vvvvvv               v                                                                                                                          
-vvvv          
+vvvv            
 vvv                                                                                 
 vv                                                                                
 v             
