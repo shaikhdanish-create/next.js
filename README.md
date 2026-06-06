@@ -1,7 +1,6 @@
       
 next project coming soon   
 
-git log --oneline
         
         
                  
