@@ -16,7 +16,7 @@ df.drop_duplicates(inplace=True)
 
 print("\nAfter removing duplicates:")
 print(df)   
-                
+                  
   
                                        
                                                     
