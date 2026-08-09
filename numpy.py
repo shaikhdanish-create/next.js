@@ -3,7 +3,7 @@ next project coming soon
 import pandas as pd
 
 data = {
-    "Name": ["Danish", "Rahul", "Danish", "Aman"],
+    "Name": ["Danish", "Rahul", "Danish", "Aman"],  
     "Age": [18, 19, 18, 20]
 }  
 
