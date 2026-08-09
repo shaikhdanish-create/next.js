@@ -12,7 +12,7 @@ df = pd.DataFrame(data)
 print("Before removing duplicates:")
 print(df)
 
-df.drop_duplicates(inplace=True)
+df.drop_duplicates(inplace=True)  
 
 print("\nAfter removing duplicates:")
 print(df)   
