@@ -1,6 +1,6 @@
                  
 next project coming soon                     
-import pandas as pd
+import pandas as pd  
 
 data = {
     "Name": ["Danish", "Rahul", "Danish", "Aman"],  
