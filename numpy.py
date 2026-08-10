@@ -1,5 +1,5 @@
                  
-next project coming soon                   
+next project coming soon                     
 import pandas as pd
 
 data = {
