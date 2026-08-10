@@ -2,7 +2,7 @@
 next project coming soon                     
 import pandas as pd  
 
-data = {
+data = {  
     "Name": ["Danish", "Rahul", "Danish", "Aman"],  
     "Age": [18, 19, 18, 20]
 }  
